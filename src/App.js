@@ -1,9 +1,10 @@
-import Main from './Seokyong/Main';
-
+import MainPage from "./layouts/MainPage";
 function App() {
   return (
     <>
-    <Main />
+
+    <MainPage/>
+
     </>
   );
 }
